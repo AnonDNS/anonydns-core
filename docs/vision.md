@@ -48,4 +48,3 @@ If you want to build something that outlives you,
 If you want to be part of the first rootless revolution...
 
 **Welcome to AnonyDNS.**
-
